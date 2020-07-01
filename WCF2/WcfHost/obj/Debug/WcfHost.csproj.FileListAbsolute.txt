@@ -1,0 +1,11 @@
+C:\Users\emila\source\repos\WcfServiceLibrary2\WcfHost\bin\Debug\WcfHost.exe.config
+C:\Users\emila\source\repos\WcfServiceLibrary2\WcfHost\bin\Debug\WcfHost.exe
+C:\Users\emila\source\repos\WcfServiceLibrary2\WcfHost\bin\Debug\WcfHost.pdb
+C:\Users\emila\source\repos\WcfServiceLibrary2\WcfHost\bin\Debug\WcfServiceLibrary2.dll
+C:\Users\emila\source\repos\WcfServiceLibrary2\WcfHost\bin\Debug\WcfServiceLibrary2.pdb
+C:\Users\emila\source\repos\WcfServiceLibrary2\WcfHost\bin\Debug\WcfServiceLibrary2.dll.config
+C:\Users\emila\source\repos\WcfServiceLibrary2\WcfHost\obj\Debug\WcfHost.csprojAssemblyReference.cache
+C:\Users\emila\source\repos\WcfServiceLibrary2\WcfHost\obj\Debug\WcfHost.csproj.CoreCompileInputs.cache
+C:\Users\emila\source\repos\WcfServiceLibrary2\WcfHost\obj\Debug\WcfHost.csproj.CopyComplete
+C:\Users\emila\source\repos\WcfServiceLibrary2\WcfHost\obj\Debug\WcfHost.exe
+C:\Users\emila\source\repos\WcfServiceLibrary2\WcfHost\obj\Debug\WcfHost.pdb

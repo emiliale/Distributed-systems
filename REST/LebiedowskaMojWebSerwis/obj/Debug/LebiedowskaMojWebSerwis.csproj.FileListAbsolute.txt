@@ -1,0 +1,7 @@
+C:\Users\emila\source\repos\LebiedowskaMojWebSerwis\LebiedowskaMojWebSerwis\bin\LebiedowskaMojWebSerwis.dll.config
+C:\Users\emila\source\repos\LebiedowskaMojWebSerwis\LebiedowskaMojWebSerwis\bin\LebiedowskaMojWebSerwis.dll
+C:\Users\emila\source\repos\LebiedowskaMojWebSerwis\LebiedowskaMojWebSerwis\bin\LebiedowskaMojWebSerwis.pdb
+C:\Users\emila\source\repos\LebiedowskaMojWebSerwis\LebiedowskaMojWebSerwis\obj\Debug\LebiedowskaMojWebSerwis.csproj.CoreCompileInputs.cache
+C:\Users\emila\source\repos\LebiedowskaMojWebSerwis\LebiedowskaMojWebSerwis\obj\Debug\LebiedowskaMojWebSerwis.dll
+C:\Users\emila\source\repos\LebiedowskaMojWebSerwis\LebiedowskaMojWebSerwis\obj\Debug\LebiedowskaMojWebSerwis.pdb
+C:\Users\emila\source\repos\LebiedowskaMojWebSerwis\LebiedowskaMojWebSerwis\obj\Debug\LebiedowskaMojWebSerwis.csprojAssemblyReference.cache

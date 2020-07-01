@@ -1,0 +1,6 @@
+C:\Users\emila\source\repos\WcfServiceLibrary2\WcfClient\bin\Debug\WcfClient.exe.config
+C:\Users\emila\source\repos\WcfServiceLibrary2\WcfClient\bin\Debug\WcfClient.exe
+C:\Users\emila\source\repos\WcfServiceLibrary2\WcfClient\bin\Debug\WcfClient.pdb
+C:\Users\emila\source\repos\WcfServiceLibrary2\WcfClient\obj\Debug\WcfClient.csproj.CoreCompileInputs.cache
+C:\Users\emila\source\repos\WcfServiceLibrary2\WcfClient\obj\Debug\WcfClient.exe
+C:\Users\emila\source\repos\WcfServiceLibrary2\WcfClient\obj\Debug\WcfClient.pdb

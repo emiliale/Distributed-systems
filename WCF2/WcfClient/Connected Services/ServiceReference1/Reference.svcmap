@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d60f3a21-c8f9-4685-b722-9ef342945fa2" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:10069/Lebiedowska" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Lebiedowska3.xsd" MetadataType="Schema" ID="671b5f00-a3f2-43e8-9f91-236eec23a5dd" SourceId="1" SourceUrl="http://localhost:10069/Lebiedowska?xsd=xsd3" />
+    <MetadataFile FileName="Lebiedowska2.xsd" MetadataType="Schema" ID="467ba133-7ad0-4898-ac14-0f66994c6a58" SourceId="1" SourceUrl="http://localhost:10069/Lebiedowska?xsd=xsd0" />
+    <MetadataFile FileName="Lebiedowska.disco" MetadataType="Disco" ID="f919b715-bd2a-4b87-ab55-d157c2b49a26" SourceId="1" SourceUrl="http://localhost:10069/Lebiedowska?disco" />
+    <MetadataFile FileName="Lebiedowska1.xsd" MetadataType="Schema" ID="51466438-4807-4519-a908-f00021c9b421" SourceId="1" SourceUrl="http://localhost:10069/Lebiedowska?xsd=xsd1" />
+    <MetadataFile FileName="Lebiedowska.xsd" MetadataType="Schema" ID="456e6796-d91c-43e9-8067-8fdb46715ff0" SourceId="1" SourceUrl="http://localhost:10069/Lebiedowska?xsd=xsd2" />
+    <MetadataFile FileName="MojStrumien.wsdl" MetadataType="Wsdl" ID="2b1b00b5-7f3b-4365-9048-8b6fdc53bf16" SourceId="1" SourceUrl="http://localhost:10069/Lebiedowska?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
